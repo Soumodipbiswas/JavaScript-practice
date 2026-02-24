@@ -1,0 +1,17 @@
+#box{
+    height: 200px;
+    width: 300px;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.content{
+    color: red;
+    background-color: greenyellow;
+}
+
+.newClass{
+    background-color: aqua;
+}

@@ -1,0 +1,27 @@
+#heading{
+    color: blue;
+    background-color: aqua;
+}
+
+.demoClass{
+    color: rgb(21, 255, 0);
+    background-color: blueviolet;
+}
+
+body{
+    background-color: khaki;
+}
+
+button{
+    background-color: red;
+    color: aliceblue;
+}
+
+#box{
+    height: 200px;
+    width: 300px;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: aquamarine;
+}
